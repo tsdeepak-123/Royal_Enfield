@@ -1,0 +1,421 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    
+}
+.navbar{
+   width: 100%;
+    height: 76px;
+    background-color: black;
+}
+.logo{
+    width: 200px;
+    height: 77px;
+    padding-left: 30px;
+    float: left;
+}
+.main{
+
+    height: 597px;
+}
+.image{
+    width: 100%;
+    height: 597px;
+    padding: 0;
+}
+.button{
+    background: #da291c;
+    position: absolute;
+    top:76%;
+    left: 6%;
+    width: 103px;
+    height: 37px;
+    border: none;
+    color:white;
+    font-family: montserrat-regular;
+    font-size: 14px;
+    text-align: center;
+}
+.button:hover{
+    cursor: pointer;
+}
+.mainrow{
+    color:white;
+    padding-left: 30px;
+position: relative;
+left: 18%;
+top:39%;
+font-family: guardiansans-medium;
+font-size: 17px;
+text-decoration: none;
+}
+.mainrow:hover{
+    color: red;
+    cursor: pointer;
+}
+.underlogo{
+    position: fixed;
+    right: 30px;
+    top: 89%;
+    width: 58px;
+    height: 58px;
+}
+.third{
+    width: 100%;
+    height:239px;
+}
+.models{
+    float: left;
+}
+.models:hover{
+transform: scale(1.2);
+}
+.fourth{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+.fifth{
+    position: absolute;
+    top: 239%;
+    left: 993px;
+    width: 307px;
+    height: 91px;
+}
+.sub-bar{
+    width: 100%;
+    height: 58px;
+    background-color: rgb(29, 31, 31);
+}
+.footer1{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(29, 31, 31);
+}
+.footer{
+    width: auto;
+    height: 369px;
+    background-color: rgb(232, 237, 240);
+}
+.table{
+    color: black;
+    float: left;
+    position: absolute;
+ 
+
+}
+.about{
+    padding-left: 90px;
+    font-size: 20px;
+    padding-top: 5%;
+    
+}
+.points{
+    padding-left: 90px;
+    font-size: 14px;
+    font-family: guardiansans-semibold;
+    
+}
+.points:hover{
+    color: red;
+    cursor: pointer;
+}
+.subrow{
+    color:white;
+    padding-left: 21px;
+position: relative;
+left: -3%;
+top:-24px;
+font-family: guardiansans-medium;
+font-size: 15px;
+text-decoration: none;
+width: 122px;
+border-right: 3px solid white;
+align-items: center;
+}
+
+.subrow:hover{
+    color: red;
+}
+.button2{
+    background: #da291c;
+    width: 103px;
+    height: 37px;
+    border: none;
+    color:white;
+    font-family: montserrat-regular;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    left: 90px;
+    top: -100px;
+   
+}
+.button2:hover{
+    cursor: pointer;
+}
+.textHeading{
+    padding-left: 72px;
+    float: left;
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+}
+.modeltable{
+position: absolute;
+top: 1426px;
+}
+.moto{
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: 9px;
+    left: -5px;
+    font-size: 22px;
+    padding-left: 35px;
+}
+.table1{
+    position: relative;
+    top: 10px;
+    left: 200px;
+    width:93%;
+}
+.table1:hover{
+    cursor: pointer;
+}
+.rightbar{
+    color: white;
+    float: left;
+    position: relative;
+    top: -2px;
+    padding-left: 20px;
+    font-size: 17px;
+
+}
+.rightbar:hover{
+    cursor: pointer;
+}
+.tablemain{
+    position: relative;
+    top: 10px;
+    left: 70%;
+}
+.button3{
+    position: absolute;
+    margin-top: 24%;
+    left: 77%;
+    background: #da291c;
+    width: 103px;
+    height: 37px;
+    border: none;
+    color:white;
+    font-family: montserrat-regular;
+    font-size: 14px;
+    text-align: center;
+}
+.button3:hover{
+    cursor: pointer;
+}
+.table2{
+    color: white;
+   
+    position: relative;
+    top: -10px;
+    left: 135px;
+
+}
+.texthead2{
+color: white;
+float: left;
+width: 138px;
+border-right: 3px solid white;
+margin-left: 39px;
+}
+.ride{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    top: 15px;
+    left: 22px;
+    font-weight: bold;
+}
+.texthead2:hover{
+    color: red;
+    cursor:pointer;
+}
+.button4{
+    position: absolute;
+    margin-top: 24%;
+    left: 77%;
+    background: #da291c;
+    width: 196px;
+    height: 37px;
+    border: none;
+    color:white;
+    font-family: montserrat-regular;
+    font-size: 14px;
+    text-align: center;
+}
+.button4:hover{
+    cursor: pointer;
+}
+.text4{
+   position: absolute;
+   margin-top: 21%;
+   left: 77%;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    color: white;
+
+}
+.subrow1{
+    color: white;
+    padding-left: 21px;
+float: left;
+width: 211px;
+border-right: 3px solid white;
+
+
+}
+.table3{
+    color: white;
+   
+    position: relative;
+    top: -7px;
+    left: 135px;
+
+}
+.app{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    top: 15px;
+    left: 22px;
+    font-weight: bold;
+}
+.subrow1:hover{
+    color: red;
+    cursor: pointer;
+}
+.button5{
+    position: absolute;
+    margin-top: 19%;
+    left: 6%;
+    background: #da291c;
+    width: 158px;
+    height: 37px;
+    border: none;
+    color:white;
+    font-family: montserrat-regular;
+    font-size: 14px;
+    text-align: center;
+}
+.button5:hover{
+    cursor: pointer;
+}
+.table4{
+    color: white;
+    padding-left: 21px;
+    position: relative;
+    top: -7px;
+    left: 135px;
+}
+.subrow2:hover{
+    color: red;
+    cursor: pointer;
+}
+.subrow2{
+color: white;
+float: left;
+width: 220px;
+border-right: 3px solid white;
+margin-left: 39px;
+
+}
+.acce{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    top: 15px;
+    left: 22px;
+    font-weight: bold;
+}
+.button6{
+    position: absolute;
+    margin-top: 32%;
+    left: 77%;
+    background: white;
+    width: 158px;
+    height: 42px;
+    border: none;
+    color:black;
+    font-family: montserrat-regular;
+    font-size: 14px;
+    text-align: center;
+}
+.button6:hover{
+    cursor: pointer;
+}
+.table5{
+    color: white;
+   
+    position: relative;
+    top: -7px;
+    left: 135px;
+}
+.subrow3{
+    color: white;
+    float: left;
+    width: 152px;
+    border-right: 3px solid white;
+    margin-left: 37px;
+}
+.subrow3:hover{
+    color: red;
+    cursor: pointer;
+}
+.text5{
+    position: absolute;
+    margin-top: 15%;
+    left: 7%;
+     font-weight: bold;
+     color: white;
+     font-size: 28px;
+     color: white;
+     font-family: guardiansans-semibold;
+}
+.button7{
+    position: absolute;
+    margin-top: 19%;
+    left: 10%;
+   width: 150px;
+   height: 37px;
+   border-color: white;
+   background-color: inherit;
+   color: white;
+   font-size: 15px;
+
+}
+.button7:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+.foot-icon{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    left: 706px;
+    top: 32px;
+}
+.book{
+    color:gray;
+    position : relative;
+    left: 41%;
+    top: 51px;
+}
+.book:hover{
+    color: red;
+    cursor: pointer;
+}
