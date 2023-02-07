@@ -63,9 +63,11 @@ text-decoration: none;
 .third{
     width: 100%;
     height:239px;
+    overflow: hidden;
 }
 .models{
     float: left;
+    cursor: pointer;
 }
 .models:hover{
 transform: scale(1.2);
@@ -164,6 +166,7 @@ align-items: center;
 .modeltable{
 position: absolute;
 top: 1426px;
+    cursor: pointer;
 }
 .moto{
     font-weight: bold;
@@ -173,6 +176,7 @@ top: 1426px;
     left: -5px;
     font-size: 22px;
     padding-left: 35px;
+    
 }
 .table1{
     position: relative;
